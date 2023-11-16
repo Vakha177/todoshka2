@@ -1,0 +1,27 @@
+.table {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.spisok{
+    display: flex;
+    justify-content: center;
+}
+
+.osnova{
+    display: flex;
+    justify-content: center;
+}
+.table ul{
+    list-style-type: none;
+}
+body{
+    background-color:#696969;
+}
+.todo{
+    max-width: 500px;
+    margin-left: 35%;
+    margin-top: 250px;
+    box-sizing: border-box;
+    color: white
+}
